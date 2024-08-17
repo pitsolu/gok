@@ -1321,5 +1321,157 @@
 				]
 			}
 		]
+	},
+	{
+		"name":"MINISTRY OF LABOUR AND SOCIAL PROTECTION",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR LABOUR AND SKILLS DEVELOPMENT",
+				"functions":[
+					"National Labour and Employment Policy Management;",
+					"Labour and Social Protection Policy and Programme Implementation;",
+					"Industrial Training;",
+					"National Labour Productivity and Competitiveness;",
+					"National Human Resource Planning and Development;",
+					"Child Labour Policy and Regulations Management;",
+					"Develop and maintain Database on Employment Creation;",
+					"Workplace Inspection;",
+					"Workman's Compensation Policy;",
+					"Promotion of Occupational Health and Safety at Work;",
+					"Industrial Relations Management;",
+					"National Institutional Framework to improve post training skills;",
+					"Overseeing Skills Development among Actors and Establishment of Sector Specific Skills Councils;",
+					"Establishment and Management of Institutional Framework for Linking industry, Skills Development and Training;",
+					"Implementation of the Industrial Attachment Policy;",
+					"Management of Skills and Post Training Policy;",
+					"Harmonisation of Skills Training at all levels of Training;",
+					"Management of National Skills Development Fund;",
+					"Implementation of the National Apprenticeship Policy;",
+					"Maintenance of National Database of Skills;",
+					"Assessing Industrial Training, Testing and Occupational Skills and Awarding Certificates including Government Test Certificates;",
+					"Migratory Labour and International Jobs Policy;",
+					"Promote overseas employment;",
+					"Coordination of labour migration management;",
+					"Develop Legal and institutional framework for labour migration;",
+					"Promote co-operation and partnerships on labour migration;",
+				],
+				"institutions":[
+					"National Social Security Fund (NSSF) (National Social Security Fund No. 45 of 2013)",
+					"National Industrial Training Authority (Industrial Training Act, Cap. 237)",
+					"National Productivity and Competitiveness Centre",
+					"Kenya National Labour Board and the Wages Council (Labour Institutions Act, No. 12 of 2007)",
+					"National Employment Authority (National Employment Authority Act, No. 3 of 2016)",
+					"Migrant Workers Welfare Fund",
+					"Department of Labour Migration Management"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR SOCIAL PROTECTION AND SENIOR CITIZEN AFFAIRS",
+				"functions":[
+					
+					"Social Protection Policy;",
+					"Senior Citizens Policy;",
+					"Vocational Training and Rehabilitation of Persons With Disabilities;",
+					"National Volunteerism Policy;",
+					"Policy and Programmes for Persons with Disabilities;",
+					"Policy and Programmes for Older Persons;",
+					"Management of Statutory Children's Institutions;",
+					"Community Development Policy;",
+					"Community Mobilization;",
+					"Registration of Self Help groups;",
+					"Protection and Advocacy of Needs of Persons with Disabilities;",
+					"Social Assistance Programmes;",
+					"Family Protection Policy;",
+					"Rehabilitation of Street Families;",
+					"Policies on Children and Social Development;",
+					"Counter Trafficking in Persons;",
+					"Children Welfare and Penal Protection;",
+					"Support for Matrimonial and Succession Laws and Policies."
+				],
+				"institutions":[
+					
+					"Child Welfare Society of Kenya",
+					"National Council for Persons with Disabilities (Persons with Disability Act, No. 14 of 2003)",
+					"National Council for Children's Services (Children's Act, No. 29 of 2022)",
+					"Street Families Rehabilitation Trust Fund"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF EAST AFRICAN COMMUNITY (EAC), THE ASALs AND REGIONAL DEVELOPMENT",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR EAST AFRICAN COMMUNITY (EAC)",
+				"functions":[
+					"Policy on East African Community;",
+					"Implementation of the Treaty for the Establishment of the East African Community;",
+					"Negotiation and Implementation of EAC protocols;",
+					"Develop and Implement policies and programmes to fast-track regional integration;",
+					"Co-ordination of Implementation of EAC Regional Programmes and Projects;",
+					"Co-ordination of Government‘s Participation in East African Community Affairs;",
+					"Domestication of regional agreements in all areas; ",
+					"Monitor Implementation of Summit and Council Directives/Decisions;",
+					"Sustainable development of Lake Victoria Basin and other shared resources;",
+					"East African Community Organs and Institutions;",
+					"Create awareness on the aspiration of East African Community Integration;",
+					"Promote public participation in the EAC Integration Process;",
+					"Monitoring and Evaluation of the Implementation of Northern Corridor Development; and",
+					"Provide Secretariat Services during Ministerial and Head of States Summit Meetings.",
+				],
+				"institutions":[
+					
+					"The Summit",
+					"The Council of Ministers",
+					"The Co-ordinating Committee",
+					"Sectoral Committees",
+					"The East African Court of Justice",
+					"The East African Legislative Assembly",
+					"The Secretariat",
+					"The EAC",
+					"The Civil Aviation Safety and Security Oversight Agency (CASSOA).",
+					"The East African Health Research Commission (EAHRC)",
+					"The East African Kiswahili Commission (EAKC)",
+					"The East African Science and Technology Commission (EASTECO)",
+					"The Inter-University Council for East Africa (IUCEA)",
+					"The Lake Victoria Basin Commission (LVBC)",
+					"The Lake Victoria Fisheries Organization (LVFO)",
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR THE ASALs AND REGIONAL DEVELOPMENT",
+				"functions":[
+					
+					"Arid and Semi - Arid Lands Policy;",
+					"Co-ordination of Planning, and Development for Arid and Semi - Arid Lands;",
+					"Implementation of Special Programmes for Development of Arid and Semi-Arid Areas;",
+					"Implementation of Arid and Semi- Arid Lands Programmes;",
+					"Co-ordinating Research for sustainable Arid and SemiArid Lands Resource Management, Development and Livelihoods;",
+					"Promotion of Livestock Development, Marketing and Value addition of Resources within Arid and Semi- Arid Areas;",
+					"Enhancing Livelihood Resilience of Pastoral and Agro Pastoral Communities;",
+					"Co-ordinating Responses Against Drought and Desertification;",
+					"Special Programmes;",
+					"Food Relief Management and Humanitarian Emergency Response",
+					"Peace Building and Conflict Management within Arid and Semi-Arid Area;",
+					"Management and promotion of integrated cross border activities in identified ASAL Counties;",
+					"Regional Development Policy Implementation, oversight and management;",
+					"Co-ordination of Regional Development Authorities; and",
+					"Projects in Response to Displacement Impacts."
+				],
+				"institutions":[
+					
+					"National Drought Management Authority (National Drought Management Authority Act, 2016)",
+					"National Drought Emergency Fund (National Drought Management Authority Act, 2016)",
+					"Tana and Athi Rivers Development Authority (TARDA Act, Cap. 443)",
+					"Lake Basin Development Authority (LBDA Act, Cap. 442)",
+					"Kerio Valley Development Authority (KVDA Act, Cap. 441)",
+					"Ewaso Nyiro North Development Authority (ENNDA Act, Cap. 448)",
+					"Ewaso Nyiro South Development Authority (ENSDA Act, Cap. 447)",
+					"Coast Development Authority (Coast Development Authority Act, Cap. 444)",
+					"Kenya Development Response to Displacement Impacts Project (KDRDIP)",
+				]
+			}
+		]
 	}
 ]
