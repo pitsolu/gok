@@ -1120,7 +1120,7 @@
 					"Lake Victoria Environmental Management Programme ",
 					"Restoration of Lake Naivasha Basin",
 					"Meteorological Services",
-					"Conservation and Protection of Wetlands",
+					"Conservation and Protection of Wetlands"
 				],
 				"institutions":[
 					"National Environmental Management Authority (Environmental Management Co-ordination Act, No.8 of 1999)",
@@ -1129,7 +1129,7 @@
 					"National Environment Trust Fund (Environmental Management Co-ordination Act, No.8 of 1999)",
 					"National Environmental Complaints Committee (NECC) (Environmental Management Co-ordination Act, No.8 of 1999)",
 					"Kenya Meteorological Department",
-					"Kenya Meteorological Training College "
+					"Kenya Meteorological Training College"
 				]
 			},
 			{
@@ -1234,7 +1234,7 @@
 					"Water Quality and Pollution Control;",
 					"Sanitation Management;",
 					"Management of Public Water Schemes and Community Water Projects; and",
-					"Water Harvesting and Storage for Domestic and Industrial Use.",
+					"Water Harvesting and Storage for Domestic and Industrial Use."
 				],
 				"institutions":[
 
@@ -1265,7 +1265,7 @@
 					"Water Storage and Flood Control Management;",
 					"Mapping, Designating and Developing Areas ideal for Irrigation Schemes;",
 					"Development of irrigation infrastructure; and",
-					"Land Reclamation.",
+					"Land Reclamation."
 				],
 				"institutions":[
 					"National Water Harvestingand Storage Authority (Water Act, 2016)",
@@ -1288,7 +1288,7 @@
 					"Energy Regulation, Security and Conservation;",
 					"Hydropower Development;",
 					"Geothermal Exploration and Development;",
-					"Promotion of renewable energy.",
+					"Promotion of renewable energy."
 				],
 				"institutions":[
 					
@@ -1311,13 +1311,13 @@
 					"Oil/Gas Sector Capacity Development;",
 					"Petroleum Products, Import/Export Marketing Policy Management;",
 					"Licensing of Petroleum Marketing and Handling;",
-					"Quality Control of Petroleum Products.",
+					"Quality Control of Petroleum Products."
 				],
 				"institutions":[
 					"National Oil Corporation of Kenya (Companies Act, Cap. 486)",
 					"Kenya Pipeline Company (Companies Act, Cap. 486)",
 					"Petroleum Development Levy Fund",
-					"Kenya Petroleum Refineries",
+					"Kenya Petroleum Refineries"
 				]
 			}
 		]
@@ -1353,7 +1353,7 @@
 					"Promote overseas employment;",
 					"Coordination of labour migration management;",
 					"Develop Legal and institutional framework for labour migration;",
-					"Promote co-operation and partnerships on labour migration;",
+					"Promote co-operation and partnerships on labour migration;"
 				],
 				"institutions":[
 					"National Social Security Fund (NSSF) (National Social Security Fund No. 45 of 2013)",
@@ -1418,7 +1418,7 @@
 					"Create awareness on the aspiration of East African Community Integration;",
 					"Promote public participation in the EAC Integration Process;",
 					"Monitoring and Evaluation of the Implementation of Northern Corridor Development; and",
-					"Provide Secretariat Services during Ministerial and Head of States Summit Meetings.",
+					"Provide Secretariat Services during Ministerial and Head of States Summit Meetings."
 				],
 				"institutions":[
 					
@@ -1436,7 +1436,7 @@
 					"The East African Science and Technology Commission (EASTECO)",
 					"The Inter-University Council for East Africa (IUCEA)",
 					"The Lake Victoria Basin Commission (LVBC)",
-					"The Lake Victoria Fisheries Organization (LVFO)",
+					"The Lake Victoria Fisheries Organization (LVFO)"
 				]
 			},
 			{
@@ -1469,9 +1469,134 @@
 					"Ewaso Nyiro North Development Authority (ENNDA Act, Cap. 448)",
 					"Ewaso Nyiro South Development Authority (ENSDA Act, Cap. 447)",
 					"Coast Development Authority (Coast Development Authority Act, Cap. 444)",
-					"Kenya Development Response to Displacement Impacts Project (KDRDIP)",
+					"Kenya Development Response to Displacement Impacts Project (KDRDIP)"
 				]
 			}
+		]
+	},
+	{
+		"name":"MINISTRY OF MINING, BLUE ECONOMY AND MARITIME AFFAIRS",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR MINING",
+				"functions":[
+					
+					"Policy on Extractive Industry;",
+					"Mineral Exploration and Mining Policy Management;",
+					"Inventory and Mapping of Mineral Resources;",
+					"Mining and Minerals Development Policy and Standards;",
+					"Maintenance of Geological Data (Research, Collection, Collation, Analysis);",
+					"Policies on the Management of Quarrying of Rocks and Industrial Minerals;",
+					"Management of Health Conditions and Health and Safety in Mines;",
+					"Mining Capacity Development and Value Addition."
+				],
+				"institutions":[
+					"National Mining Corporation (Mining Act, No. 12 of 2016)",
+					"Mineral Rights Board (Mining Act, No. 12 of 2016)",
+					"The Geologists Registration Board (Geologists Registration Act, Cap. 535)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR THE BLUE ECONOMY AND FISHERIES",
+				"functions":[
+					
+					"Co-ordinate development of national oceans and blue economy strategy and policy;",
+					"Fisheries and Aquaculture Policy;",
+					"Co-ordination of Development of Policy, Legal, Regulatory and Institutional Framework for the Fisheries Industry and the Blue Economy;",
+					"Drive sustainable transformation and diversification of the ocean’s economy by promoting research and innovation;",
+					"Increase local participation and investment in the blue economy through private sector engagement and partnerships;",
+					"Fisheries Marketing Policy;",
+					"Fishing Licensing;",
+					"Development of Fisheries;",
+					"Promote Fish Consumption;",
+					"Fish Quality Assurance;",
+					"Enhancement of Technical Co- operation with Partner States;",
+					"Management and Licensing of Local and Foreign Fishing Trawlers in Kenya Waters;",
+					"Overall Policy for Exploitation of Agro-Based Marine Resources;",
+					"Policy on Development of Fishing Ports and Associated Infrastructure;",
+					"Capacity Building for Sustainable Exploitation of Agro-Based Marine Resources;",
+					"Protection of Aquatic Ecosystems;",
+					"Promotion of Kenya as a Centre for Aquaculture;",
+					"Economic developmentoriented Fisheries Research."
+				],
+				"institutions":[
+					"Kenya Marine and Fisheries Research Institute (Science, Technology and Innovation Act, No. 28 of 2012)",
+					"Kenya Fisheries Service (Fisheries Management and Development Act, No. 35 of 2016)",
+					"Fish Marketing Authority (Fisheries Management and Development Act, No. 35 of 2016)",
+					"Kenya Fishing Industries Corporation"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR SHIPPING AND MARITIME AFFAIRS",
+				"functions":[
+					"Promotion of Maritime and Shipping Industry;",
+					"Maritime Transport Management;",
+					"Ship Registration;",
+					"Marine Cargo Insurance;",
+					"Human Resource Development, Management and Research in Support of Kenya‘s Shipping Industry;",
+					"Establishment of Effective Admiralty Jurisdiction;",
+					"Development of a Central Data and Information Centre;",
+					"Co-ordinating Maritime Spatial Planning and Integrated Coastal Zone Management;",
+					"Protection and Regulation of Marine Ecosystems;",
+					"Develop national capacity for Kenya’s maritime sector;",
+					"Promote and facilitate placement of Kenyans in the global maritime labour market;",
+					"Protection of the Marine Resources in EEZ;",
+					"Monitoring and Advising on Usage of Kenya's Exclusive Economic Zone;",
+					"Ocean Governance and marine management",
+					"Government Clearing and Forwarding Services "
+				],
+				"institutions":[
+					"The Kenya National Shipping Line (The Merchant Shipping Act, No. 4 of 2009)",
+					"Kenya Maritime Authority (State Corporations Act, Cap. 446, Kenya Maritime Authority Order 2004)",
+					"Bandari Maritime Academy",
+					"Government Clearing Agency"
+				]
+			}
+		]
+	},
+	{
+		"name":"THE STATE LAW OFFICE",
+		"functions":[
+			"Legal Policy Management",
+			"Principal Legal Adviser to the Government",
+			"Anti-Corruption Strategies, Integrity and Ethics",
+			"National Registries",
+			"Public Trustee",
+			"Official Receiver",
+			"Adoptions",
+			"Custodian of Enemy Property",
+			"Wakf Commissioners",
+			"College of Arms",
+			"Matters Related to Legal Profession",
+			"Legal Aid",
+			"Policy on Administration of Justice",
+			"Constitutional Implementation",
+			"Legislative Drafting",
+			"Drafting and Vetting of Agreements",
+			"Elections Policy Management",
+			"Political Parties Policy Management"
+		],
+		"institutions":[
+			
+			"Business Registration Service (The Business Registration Act, No. 15 of 2015)",
+			"Council for Legal Education (The Council for Legal Education Act, No. 27 of 2012)",
+			"National Anti-Corruption Campaign Steering Committee (Gazette Notice No. 4124 of 2004)",
+			"Assets Recovery Agency (The Proceeds of Crime and Anti Money Laundering Act, No. 9 of 2009)",
+			"Kenya School of Law (The Kenya School of Law Act, No. 26 of 2012)",
+			"Auctioneers Licensing Board (The Auctioneers Act, No. 5 of 1996)",
+			"Witness Protection Agency (The Witness Protection Act (No. 16 of 2006)",
+			"Victims Protection Board (The Victim Protection Act, No. 17 of 2014)",
+			"Nairobi Centre for International Arbitration (The Nairobi Centre for International Arbitration Act, No. 26 of 2013)",
+			"Advocates Disciplinary Tribunal (The Advocates Act, Cap. 16)",
+			"Advocates Complaints Commission (The Advocates Act, Cap. 16)",
+			"Car Loan Scheme for Electoral Commissioners Fund",
+			"Kenya Law Reform Commission (The Kenya Law Reform Commission Act, No. 19 of 2013)",
+			"Office of the Registrar of Political Parties (The Political Parties Act, No. 11 of 2011)",
+			"National Committee on Implementation of National Humanitarian Law",
+			"National Council for Law Reporting (The National Council for Law Reporting Act, No. 11 of 1994)",
+			"National Coroners Service (The National Coroners Service Act, No. 18 of 2017)",
+			"National Legal Aid Service (Legal Aid Act, No. 6 of 2016)"
 		]
 	}
 ]
