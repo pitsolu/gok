@@ -1,0 +1,1078 @@
+[
+	{
+		"name":"Office of the President",
+		"type":"President",
+		"offices":[
+			{ 
+				"name":"Chief of Staff and Head of the Public Service",
+				"functions":[
+					"I. Administrative Head of the Executive Office of the President",
+					"II. As Co-ordinator and convener of the Principal Secretaries Committees, support the Executive Office of the President in facilitating the organization and efficient execution of Government Business",
+					"III. Promote ethics, good governance, efficiency, and effectiveness in the provision of public services through the deployment of right skills, values, and leadership in the Kenyan Public Service;",
+					"IV. Transmit Executive Directives/Orders and Presidential Proclamations to Ministries, State Organs, State Departments, and State Agencies for their information, implementation or other action;",
+					"V. Custodian of the Kenya Public Seal and other instruments of the State for national posterity; and",
+					"VI. Perform any"
+				]
+			},
+			{"name":"Secretary to the Cabinet"},
+			{"name":"State House Comptroller"},
+			{"name":"Deputy Chief of Staff"},
+			{"name":"Office of the Council of Economic Advisors"},
+			{"name":"Office of the National Security Advisor"},
+			{"name":"Office of the Women Rights Advisor"},
+			{"name":"Office of the Council of Climate Change Advisor"},
+			{"name":"The Private Secretary to the President"},
+			{"name":"Office of Fiscal Affairs and Budget Policy"},
+			{"name":"Office of the Economic Transformation"},
+			{"name":"Head of the Presidential Communication Service"},
+			{"name":"Statehouse Spokesperson"}
+		],
+		"functions":[
+			"Overall Policy Direction and Leadership",
+			"Promotion of National Unity and Protection of National Interest",
+			"Civilian Oversight of National Security Organs",
+			"Custodian of National Security Policy and Strategy",
+			"Oversight over the National Intelligence Service",
+			"Management of the Assumption of the Office of the President",
+			"Co-ordination of Functions of Ministries and State Departments",
+			"Chair Cabinet",
+			"Chair National and County Governments Co-ordinating Summit",
+			"Appointment of Attorney-General",
+			"Intergovernmental Budget and Economic Policy Management",
+			"Advisory on the Management of Kenya’s International Borders",
+			"Appointment of Cabinet Secretaries",
+			"Appointment of Chief Justice, Deputy Chief Justice, and Judges of Superior Courts",
+			"Appointment of Principal Secretaries",
+			"Appointment of Chairpersons and Commissioners of Constitutional Commissions",
+			"Appointment of High Commissioners and Ambassadors",
+			"Appointment of Chairpersons of State Corporations",
+			"Appointment of State/Public Officers as provided by law",
+			"Establishment of Public Offices in Accordance with the Constitution",
+			"Conferment of Honours in the name of the people and the Republic",
+			"Administration of Power of Mercy",
+			"Accreditation of Foreign Diplomatic and Consular representatives",
+			"Annual Reporting to Parliament on the Realization of National Values, Principles of Governance, National Security and Fulfillment of Kenya’s International Obligations",
+			"Implementation of the National Cohesion and Integration Values",
+			"Co-ordination and Delivery of National Priorities and Flagship Programmes",
+			"Public Service Reforms",
+			"Management and Monitoring of the Public Service Performance",
+			"Oversight of State Corporations and State Agencies",
+			"Co-ordination of Counter Terrorism Strategy and Policy Implementation",
+			"Co-ordination of Counter Radicalization, Disengagement and Rehabilitation",
+			"Focal Point for Bilateral and Multilateral Partnerships in Counter Terrorism",
+			"Creation and Co-ordination of Commission of Inquiry and Tribunals",
+			"Co-ordination of Women Rights Initiatives as vested in the Women Rights Agency",
+			"Resource Surveys and Remote Sensing",
+			"Parliamentary Liaison",
+			"Liaison of Constitutional Commissions; an",
+			"State House Spokesperson. "
+		],
+		"institutions":[
+			
+			"Cabinet Office (Article 154 of the Constitution)",
+			"National Security Council (Article 240 of the Constitution, National Security Council Act, 2012)",
+			"Assumption of the Office of President Committee (Assumption of the Office of President Act, 2012)",
+			"National Security Advisory Committee (NSAC)",
+			"National Intelligence Service (National Security Intelligence Service Act, 2012)",
+			"Kenya International Boundaries Office",
+			"Joint Security Secretariat (National Security Council Act, 2012)",
+			"National Counter Terrorism Centre (NCTC) (Security Laws Amendment Act, 2014)",
+			"National Economic and Social Council (NESC)",
+			"Presidential Advisory Council on Science and Technology",
+			"President’s Budget Office",
+			"President’s Economic Transformation Office",
+			"Presidential Council of Economic Advisors",
+			"Directorate of National Cohesion and Values",
+			"Directorate of Resource Surveys and Remote Sensing",
+			"National and County Government Summit (Intergovernmental Relations Act, 2012)",
+			"Power of Mercy Advisory Committee (Power of Mercy Act, 2011)",
+			"Kenya South Sudan Liaison Office (KESSULO)",
+			"Public Entities Oversight Office"
+		]
+	},
+	{
+		"name":"Office of the Deputy President",
+		"type":"President",
+		"offices":[
+			"International Development Partnerships Co-ordination",
+			"Nairobi Rivers Commission",
+			"Inter-Government Budget and Economic Council (IBEC)",
+			"Inter-Governmental Relations Technical Committee (Public Finance Management Act, 2012)",
+			"National and County Governments Honours Advisory Committee (National Honours Act, 2013)",
+			"Coffee Sub-Sector Reforms Implementation Standing Committee"
+		],
+		"functions":[
+			"Deputize the President in execution of the President’s functions in accordance with Article 147 of the Constitution;",
+			"Chair Cabinet Committees;",
+			"Oversee Implementation of Cabinet decisions across all Ministries and State Departments;",
+			"Co-ordinate Inter-Governmental relations between the National Government and County Governments including Chairing the Inter-Governmental Budget and Economic Council (IBEC);",
+			"Liaison with Constitutional Commissions and Independent Offices in matters that require intervention by the National Government including budgets, policy formulation and implementation of their recommendations;",
+			"Co-ordinate the planning and supervise the implementation of development partners’ funded programs and projects;",
+			"Oversee Public Sector Reforms; and",
+			"Any other function as may be assigned by the President"
+		]
+	},
+	{
+		"name":"OFFICE OF THE PRIME CABINET SECRETARY",
+		"type":"President",
+		"offices":[
+			"Public Service Performance Management Unit",
+			"State Corporations Advisory Committee (SCAC) (State Corporations Act, Cap.446)",
+			"Inspectorate of State Corporations (State Corporations Act, Cap.446)",
+			"Government Delivery Services (GDS)"
+		],
+		"functions":[
+			
+			"1) Assist the President and the Deputy President in the co-ordination and supervision of Government Ministries and State Departments;",
+			"2) In liaison with the Ministry responsible for Interior and National Administration oversee the implementation of National Government policies, programmes and projects;",
+			"3) Chair and co-ordinate National Government legislative agenda across all ministries and state departments in consultation with, and for transmission to the Party/Coalition Leaders in Parliament;",
+			"4) Chair the Principal Secretaries’ Committees and supervise the technical monitoring and evaluation of Government policies, programs and projects; and",
+			"5) Perform any other function as may be assigned by the President."
+		]
+	},
+	{
+		"name":"MINISTRY OF INTERIOR AND NATIONAL ADMINISTRATION",
+		"type":"Ministry",
+		"offices":[
+			{
+				"name":"I. STATE DEPARTMENT FOR INTERNAL SECURITY AND NATIONAL ADMINISTRATION",
+				"offices":[
+					"National Government Administration Officers [National Government Coordination Act, No. 1 of2013]",
+					"Security Training Institutions;",
+					"National Crime Research Centre (National Crime Research Act, Cap. 62);",
+					"Government Chemist NGO Co-ordination Board (Non-Governmental Organizations Coordination Act, Cap. 134);",
+					"Mt. Kenya School of Leadership;",
+					"Government Press;",
+					"Betting Control and Licensing Board (Betting, Lotteries and Gaming Act, Cap. 131)",
+					"National Authority for the Campaign Against Alcohol and Drug Abuse (National Authority for the Campaign Against Alcohol and Drug Abuse Act, No. 14 of 2012).",
+					"Independent Policing Oversight Authority (Independent Policing Oversight Authority Act, No. 35 of 2011)",
+					"Private Security Regulatory Authority (Private Security Regulatory Authority Act, No. 30 of 2016)",
+					"National Cohesion and Integration Commission (Cohesion and Integration Commission Act, No. 12 of 2008)",
+					"Kenya Coast Guard Service (Kenya Coast Guard Service Act, No. 11 of 2018)"
+				],
+				"functions":[
+					"Co-ordination ofNational Government Functions in Counties;",
+					"Policy on Internal Security;",
+					"Oversight Over Internal Security affairs;",
+					"Policy on National Cohesion and Integration;",
+					"Policy on Training of Security Personnel;",
+					"Border Management (Marine and Terrestrial);",
+					"Disaster and Emergency Response Coordination;",
+					"Support in co-ordination and distribution of Relief Food;",
+					"Policy on National Crime Research and Management;",
+					"Publishing of the Kenya Gazette;",
+					"Designing, authenticating, cataloguing, standardization and printing of Government Security documents;",
+					"Public Benefits Organizations;",
+					"State Functions and Government Receptionist;",
+					"Proclamation of Public Holidays;",
+					"Policy on Betting, Lotteries and Gaming;",
+					"Security Roads and Airstrips;",
+					"Small Arms and Light Weapons Management; and",
+					"Control of Drug and Narcotic Substances."
+				]
+			},
+			{
+				"name":"II. STATE DEPARTMENT FOR CORRECTIONAL SERVICES",
+				"offices":[
+					"Kenya Correctional Services (Prisons Act, Cap. 90)",
+					"Borstal Institutions (Borstal Institutions Act, Cap. 92)",
+					"Prisons Enterprise Fund (Public Finance Management Act, 2012)"
+				],
+				"functions":[
+					"Correctional Services;",
+					"Policy for Reform of Penal Justice System;",
+					"Prisons Enterprise;",
+					"Development of Administrative Policies for Borstal Institutions and Facilities for Incarcerated Minors; and",
+					"Probation Services."
+				]
+			},
+			{
+				"name":"III. STATE DEPARTMENT FOR IMMIGRATION & CITIZEN SERVICES",
+				"offices":[
+					"National Registration Bureau; Civil Registration of Persons (The Registration of Persons Act, Cap. 107, the Registration of Births and Deaths Act, Cap.149);",
+					"Directorate of Immigration;",
+					"Refugee Affairs Secretariat;",
+					"The Refugee Affairs Committee (The Refugees Act, No. 10 of 2021)",
+					"Directorate of e-Citizen Services"
+				],
+				"functions":[
+					
+					"Registration of Births and Deaths;",
+					"Registrations of Persons;",
+					"Policy on the National Integration Identity Management System;",
+					"Development of the National Integrated Identity Management System (Huduma Namba);",
+					"Oversight over and Coordination of the Management of the National Primary Data Registers for Citizens and Foreign Nationals;",
+					"Collaboration with other Ministries, Departments and Agencies Regarding the collection of relevant primary data;",
+					"Co-ordination of eCitizen Services;",
+					"Oversight of the Integrated Population Registration Systems (IPRS);",
+					"Implementation of Citizenship and Immigration Policy; and",
+					"Implementation of Refugees’ and Asylumseekers’ Policies. "
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF DEFENCE",
+		"type":"Ministry",
+		"offices":[
+
+			"Kenya Defence Forces (Constitution of Kenya – Article 241);",
+			"National Defence Council",
+			"National Defence University of Kenya;",
+			"Defence Staff College;",
+			"Kenya Ordinance Factory Corporation (Legal Notice No. 125 of 23rd July, 1997, State Corporations Act, Cap. 446);",
+			"The Kenya Space Agency (The Kenya Space Agency Order, 2016).",
+			"Kenya Shipyards Limited"
+		],
+		"functions":[
+			
+			"National Defence Policy and Management;",
+			"Protection of the Sovereignty and Territorial Integrity of the Republic;",
+			"Support to Civil Authorities in Situations of Emergency and Disaster;",
+			"Defence Intelligence;",
+			"Co-ordinate and Regulate Space Related Activities in the Country; and",
+			"Implement the Kenya Space Policy and any Related Programmes."
+		]
+	},
+	{
+		"name":"THE NATIONAL TREASURY AND ECONOMIC PLANNING",
+		"type":"Ministry",
+		"offices":[
+			{
+				"name":"THE NATIONAL TREASURY",
+				"offices":[
+					"Central Bank of Kenya (Central Bank of Kenya Act, Cap. 491/Article 231, Constitution);",
+					"Kenya Revenue Authority (Kenya Revenue Authority Act, No. 2 of 1995);",
+					"Capital Markets Authority (Capital Markets Authority Act, Cap. 485A);",
+					"Competition Authority of Kenya (Competition Act, No. 12 of 2010)",
+					"Insurance Regulatory Authority (Insurance Act, Cap. 487);",
+					"Retirement Benefits Authority (Retirement Benefits Act, No. 3 of 1997)",
+					"Unclaimed Financial Assets Authority (Unclaimed Financial Assets Act, No. 4 of 2011);",
+					"Kenya Deposit Insurance Corporation (Kenya Deposit Insurance Act, No. 4 of 2012);",
+					"Equalization Fund (Article 204 of the Constitution of Kenya);",
+					"Contingencies Fund (Article 208 of the Constitution);",
+					"Nairobi International Financial Centre (Nairobi International Financial Centre Act, No. 25 of 2017)",
+					"Privatization Commission (Privatization Act, No. 2 of 2005);",
+					"Public Private Partnership Unit (Public Private Partnership Act, No. 14 of 2021)",
+					"Public Procurement Regulatory Authority (Public Procurement and Disposal Act, No. 33 of 2015)",
+					"Kenya Reinsurance Corporation (Kenya Reinsurance Act, Cap. 487)",
+					"Anti-Money Laundering Advisory Board (Proceeds of Crime and Anti-Money Laundering Act, No. 9 of 2009);",
+					"Financial Reporting Centre (Proceeds of Crime and Anti-Money Laundering Act, No. 9 of 2009);",
+					"Kenya Institute of Supplies Management (Supplies Practitioners Management Act, No. 17 of 2007);",
+					"Kenya Trade Network Agency (The National Electronic Single Window Act, No. 25 of 2022);",
+					"Kenya National Assurance (2001) Co. (The Companies Act);",
+					"Policy Holders Compensation Fund (Insurance Act, Cap. 487, Policy Holders Compensation Regulations 2010);",
+					"Local Authorities Provident Fund (Local Authorities Provident Fund, Cap. 272);",
+					"Consolidated Bank of Kenya (Companies Act); § Development Bank of Kenya;",
+					"Kenya Post Office Savings Bank (Kenya Post Office Savings Bank Act, Cap. 483B);",
+					"The East African Development Bank (EADB)(East African Development Bank, Cap. 493A);",
+					"Industrial and Commercial Development Corporation (ICDC) (Industrial and Commercial Development Corporation Act, Cap. 445)",
+					"Government Digital Payments (eCitizen);",
+					"Kenya Accountants and Secretaries National Examination Board (KASNEB);",
+					"Public Sector Accounting Standards Board;",
+					"Registration of Certified Public Secretaries Board; (Certified Public Secretaries of Kenya, Cap. 534);",
+					"Accountants Disciplinary Committee (Accountants Act, Cap. 15);",
+					"Institute of Certified Public Accountants (Accountants Act, Cap. 15);",
+					"Institute of Certified Public Secretaries of Kenya (Certified Public Secretaries Act, Cap.534);",
+					"Institute of Certified Investments and Financial Analysts (Investments and Financial Analysts Act, No. 13 of 2015)",
+					"Kenya National Entrepreneurship Savings Trust (KNEST)",
+					"Kenya Institute of Supplies Management;",
+					"Kenya Institute of Supplies Examination Board;",
+					"Public Service Superannuation Scheme;",
+					"Government Clearance Agency Fund; and",
+					"Civil Servants Accident Claim Fund."
+				],
+				"functions":[
+					"Overall Economic Policy Management;",
+					"Management of Public Finance;",
+					"Formulation of National Budget;",
+					"Public Debt Management;",
+					"Formulation and Maintenance of Government Accounting Standards;",
+					"Bilateral and MultiLateral Financial Relations;",
+					"Capital Markets Policy;",
+					"Oversight over Revenue Collection as Prescribed under all written;",
+					"Competition Policy Management;",
+					"National Pensions Policy Management;",
+					"Insurance Policy and Regulation;",
+					"Public Procurement and Disposal Policy;",
+					"Public Investment Policy and Oversight;",
+					"Development and Enforcement of Financial Governance Standards;",
+					"Financial Sector Analysis and Management including SACCOs, NSSF and NHIF;",
+					"Financial Institutions Oversight;",
+					"Management of National and County Governments Financial Management System and Standards;",
+					"Development of Kenya as an International Financial Centre;",
+					"Anti-Money Laundering Policy;",
+					"Custodian of National Government Assets and Properties; and",
+					"Secretariat to Intergovernmental Budget and Economic Council. "
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR ECONOMIC PLANNING",
+				"offices":[
+					"Kenya Institute of Public Policy Research and Analysis (KIPPRA Act, No. 15 of 2006)",
+					"Kenya Vision 2030 Board;",
+					"National Government Constituency Development Fund (National Government Constituency Development Fund Board, Act No. 30 of 2015)",
+					"Kenya National Bureau of Statistics (Statistics Act No. 4 of 2006);",
+					"National Co-ordinating Agency for Population and Development (National Co-ordinating Agency for Population and Development Order, 2004);",
+					"New Partnership for African Development (NEPAD)/Annual Peer Review Mechanism (APRM);",
+					"Community Development Trust Fund  (ACP/EU Protocol)."
+				],
+				"functions":[
+					"National and Sectoral Development Planning;",
+					"National Statistics Management;",
+					"National Census and Housing Surveys;",
+					"Population Policy Management;",
+					"Liaison with Economic Commission for Africa;",
+					"Monitoring and Evaluation of Economic Trends;",
+					"Co-ordination of Implementation, Monitoring and Evaluation of Sustainable Development Goals (SDG’s)."
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF FOREIGN AND DIASPORA AFFAIRS",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR FOREIGN AFFAIRS",
+				"offices":[
+					"Kenya Foreign Service Institute (Foreign Service Act, No. 12 of 2021)",
+					"All Kenya Missions and High Commissions Abroad"
+				],
+				"functions":[
+					"Management of Kenya’s Foreign Policy.",
+					"Projection, Promotion and Protection of Kenya’s Interest and Image globally;",
+					"Management of Kenya’s Missions, Embassies and High Commissions Abroad;",
+					"Co-ordinating Regional Peace Initiatives;",
+					"Ratifications/Accession to, Depository and Custodian of all International Treaties, Agreements and Conventions where Kenya is a Party;",
+					"Co-ordinations of Matters Relating to IGAD and Association of Regional Cooperation (ARC);",
+					"Liaising and Coordinating with World Trade Bodies and UN Agencies;",
+					"Promotion of Nairobi as a Hub for Multilateral Diplomacy;",
+					"Lobbying for Kenya Candidature in the International Governance System;",
+					"Negotiation and Conclusion of Headquarters and Host Country Agreements with International Organizations and Agencies;",
+					"Liaison with International and Regional Organizations;",
+					"Liaison with Foreign Missions in Kenya;",
+					"Administration of Diplomatic Privileges and Immunities;",
+					"Co-ordination of State and Official Visits;",
+					"Protocol and State Courtesy;",
+					"Provision of Consular Services;",
+					"Management of Joint Commissions with other Countries;",
+					"Management of Bilateral and Multilateral Relations; and ",
+					"Official Communications on Global Foreign Relations."
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR DIASPORA AFFAIRS",
+				"functions":[
+					
+					"Promotion of continuous dialogue with Kenyans abroad;",
+					"Champion the Protection of Kenya’s Diaspora rights and welfare;",
+					"Support Kenyans in the diaspora in harnessing more opportunities for employment and enterprise development;",
+					"Develop Incentive framework for Diaspora Remittances;",
+					"Harness Diaspora savings, facilitate FDI and Technology transfers; and",
+					"Mainstreaming the Kenyan Diaspora into the national development process."
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF PUBLIC SERVICE, GENDER AND AFFIRMATIVE ACTION",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR PUBLIC SERVICE",
+				"offices":[
+					
+					"Kenya School of Government (Kenya School of Government Act, No. 9 of 2012)",
+					"National Youth Service (National Youth Service Act, No. 17 of 2018)",
+					"Huduma Centres",
+					"Institute of Human Resource Management, (Human Resource Management Professionals Act, No. 52 of 2012)"
+				],
+				"functions":[
+					
+					"Public Sector Reforms and Transformation including Operational Standards and Process Engineering;",
+					"Government Human Resource Information Systems and Services;",
+					"Overseeing the management of NYS;",
+					"Internship and Volunteer Policy for Public Service;",
+					"Government Payroll Policy and Standards;",
+					"Government Shared Support Services;",
+					"Research, Development and Public Service Delivery Innovations;",
+					"Public Service Career Planning and Development;",
+					"Administration of Insurance and Welfare Programmes for the Civil Service, including: Comprehensive Group Life, Last expense, Work Injury Benefits and Group Personal Accident Insurance Cover; and",
+					"Counselling Policy andService."
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR GENDER AND AFFIRMATIVE ACTION",
+				"offices":[
+					
+					"The National Government Affirmative Action Fund",
+					"Anti-Female Genital Mutilation Board",
+					"Gender Violence Protection Centres",
+					"Women Enterprise Fund (Public Finance Management Act, No. 18 of 2012)"
+				],
+				"functions":[
+					"Gender Policy Management;",
+					"Special Programmes for Women Empowerment;",
+					"Gender Mainstreaming in Ministries/ Departments/Agencies;",
+					"Community Mobilization on Gender Issues;",
+					"Domestication of International Treaties/Conventions on Gender;",
+					"Policy and Programmes on Gender Violence;",
+					"Affirmative Action Policy;",
+					"Promote equity;",
+					"Undertake a national survey on special needs;",
+					"Mainstreaming affirmative action in Ministries/Departments /Agencies; and",
+					"Ensure Compliance with affirmative action principles as envisaged in the Constitution."
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF ROADS AND TRANSPORT",
+		"offices":[
+			
+			{
+				"name":"I. STATE DEPARTMENT OF ROADS",
+				"offices":[
+					
+					"Kenya Roads Board (Kenya Roads Board Act, 1999 & 2007)",
+					"Kenya National Highways Authority (Kenya Roads Act, 2007)",
+					"Kenya Urban Roads Authority (Kenya Roads Act, No. 2 of 2007)",
+					"Kenya Rural Roads Authority(Kenya Roads Act, No. 2 of 2007)",
+					"Kenya Institute of Highways and Building Technology",
+					"Kenya Institute of Technology",
+					"Engineers Board of Kenya (Engineers Registration Act, Cap. 530A",
+					"Kenya Engineering Technologists Registration Board (Engineering Technology Act, 2016)",
+					"Mechanical and Transport Fund (Public Finance Management Act, No. 18 of 2012)."
+				],
+				"functions":[
+					
+					"National Roads Development Policy;",
+					"Development, Standardization and Maintenance of Roads;",
+					"Materials Testing and Advice on Usage;",
+					"Protection of Road Reserves.",
+					"Maintenance of Security Roads;",
+					"Administer Mechanical and Transport Fund;",
+					"Registration of Engineers;",
+					"Mechanical and Transport Services;",
+					"Enforcement of Axle Load Control. "
+				]
+			},
+			{
+				"name":"II. STATE DEPARTMENT FOR TRANSPORT",
+				"functions":[
+					"Transport Policy Management;",
+					"Rail Transport and Infrastructure Management;",
+					"Fast Tracking Identified Northern and LAPPSET Transport Corridor Projects;",
+					"Oversight and Co-ordination of Northern Corridor Transport and Lamu South Sudan Ethiopia Transit (LAPSSET) Programmes Implementation;",
+					"Civil Aviation Management and Training;",
+					"Registration and Insurance of Motor Vehicles;",
+					"Motor Vehicles Inspection;",
+					"National Transport Safety;",
+					"National Road Safety Management;",
+					"National Roads Transport Policy;",
+					"Axle Load Control Policy and Standards;",
+					"Development and Maintenance of Air Strips; and",
+					"Oversee the establishment of an integrated, efficient, effective and sustainable Urban Public Transport system within the Nairobi Metropolitan Area."
+				],
+				"offices":[
+					
+					"Kenya Railways Corporation (Kenya Railways Corporation Act, Cap. 397)",
+					"Northern Corridor Transit and Transport Co-ordination (NCTTCA)",
+					"LAPSSET Development Authority (State Corporations Act, Cap. 446, Gazette Notice-2013)",
+					"Kenya Airports Authority (Kenya Airports Authority Act, Cap. 395)",
+					"Kenya Civil Aviation Authority (Civil Aviation Act, No. 21 of 2013)",
+					"East African School of Aviation (Civil Aviation Act, No. 21 of 2013)",
+					"Kenya Ports Authority (Kenya Ports Authority Act, Cap. 391)",
+					"National Transport and Safety Authority (The National Transport and Safety Authority Act, No. 33 of 2012)",
+					"The Nairobi Metropolitan Area Transport Authority (The Nairobi Metropolitan Area Transport Authority Order, 2016)",
+					"The Railway City Development Authority",
+					"Railway Training Institute "
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF LANDS, PUBLIC WORKS, HOUSING AND URBAN DEVELOPMENT",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR LANDS AND PHYSICAL PLANNING",
+				"functions":[
+					
+					"National Lands Policy and Management;",
+					"Physical Planning for Land Use;",
+					"Land Transactions;",
+					"Survey and Mapping;",
+					"Land Adjudication;",
+					"Land Registration;",
+					"National Spatial Infrastructure;",
+					"Land and Property Valuation",
+					"Services Administration;",
+					"Land Information Systems;",
+					"Maintenance of a Public Land Bank;",
+					"Administration of Public Land as Designated by the Constitution;",
+					"Land Settlement Policy andManagement;",
+					"Land Settlement Matters;",
+					"Rural Settlement Planning."
+				],
+				"offices":[
+					"Physical Planners Registration Board (Physical Planners Registration Act, No. 3 of 1996)",
+					"Valuers Registration Board (The Valuers Act, Cap. 532)",
+					"Settlement Trustee Fund",
+					"Land Surveyors Board (Survey Act, Cap 299)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR HOUSING AND URBAN DEVELOPMENT",
+				"functions":[
+
+					"Housing Policy Management",
+					"Management of Civil Servants Housing Scheme;",
+					"Development and Management of Affordable Housing;",
+					"National Secretariat for Human Settlement;",
+					"Appropriate low-cost housing building and construction technologies;",
+					"Development and Management of Government Pool Housing;",
+					"Shelter and Slum Upgrading;",
+					"Public Office Accommodation Lease and Management;",
+					"Maintenance of Inventory of Government Housing Property;",
+					"Urban Planning Policy;",
+					"Townships, Municipalities and Cities Policy"
+				],
+				"offices":[
+					
+					"National Housing Corporation (Housing Act, Cap 117",
+					"National Housing Development Fund (Housing Act, Cap 117)",
+					"Civil Servants Housing Scheme Fund",
+					"Estate Agents Registration Board (The Estate Agents Act, Cap. 533)"
+				]
+			},
+			{
+
+				"name":". STATE DEPARTMENT FOR PUBLIC WORKS",
+				"functions":[
+					
+					"Public Works Policy and Planning;",
+					"National Building Inspection Services;",
+					"Setting and Management of Building and Construction Standards and Codes;",
+					"Setting and Management of Building and Construction Standards and Codes;",
+					"Supplies Branch;",
+					"Co-ordination of Procurement of Common User Items by Government Ministries;",
+					"Registration and Regulation of Contractors, Consultants for Buildings, Civil Works and Material Suppliers;",
+					"Registration of Architects and Quantity Surveyors;",
+					"Provision of Mechanical and Electrical Building Services;",
+					"Building Research Services;",
+					"Registration and Regulation of Civil, Building and Electromechanical Contractors;",
+					"Development and Management of Public Buildings;",
+					"Building Research Services;",
+					"Other Public works."
+				],
+				"offices":[
+					
+					"National Construction Authority (National Construction Authority Act, No. 41 of 2011)",
+					"Kenya Building Research Centre",
+					"The National Building Inspectorate",
+					"Board of Registered Architects and Quantity Surveyors (BORAQS), (Architects and Quantity Surveyors Act, Cap. 525)",
+					"Contractors and Builders Retention Fund",
+					"Building Surveyors Registration Board"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF INFORMATION, COMMUNICATION AND THE DIGITAL ECONOMY",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR BROADCASTING AND TELECOMMUNICATIONS",
+				"offices":[
+					
+					"Communications Authority of Kenya (Kenya Information and Communications Act, No. of 1998).",
+					"Universal Service Fund Advisory Council (Kenya Information and Communications (Amendment) Act 2013)",
+					"Kenya Broadcasting Corporation (Kenya Broadcasting Act, Cap. 221)",
+					"The Postal Corporation of Kenya (Postal Corporation Act, Cap.221)",
+					"Media Council of Kenya (Media Council, No. 46 of 2013)",
+					"Kenya Institute of Mass Communication (KIMC) (State Corporations Act, Cap. 446)",
+					"Kenya News Agency",
+					"Government Advertising Agency",
+					"Telkom Kenya Limited (Companies Act, Cap. 486)",
+					"National Communications Secretariat",
+					"Kenya Year Book Editorial (Kenya Year Book Order of 2007)"
+				],
+				"functions":[
+					
+					"Telecommunications Policy;",
+					"Broadcasting Policy;",
+					"Co-ordination of National Government Advertising services;",
+					"Public Communications;",
+					"Postal and Courier Services;",
+					"Policy on Development of Local Content;",
+					"Telecommunications, Postal services and Electronic Commerce;",
+					"Government Telecommunications Services; and",
+					"Government Spokesperson."
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR INFORMATION COMMUNICATION TECHNOLOGY (ICT) AND DIGITAL ECONOMY",
+				"functions":[
+					
+					"To Facilitate the Development of the Information and Communications Sector (including Broadcasting, multimedia);",
+					"Data Protection Policy and Regulation of Personal Data Services;",
+					"National ICT Policy;",
+					"Promotion of ICT Innovation and Digital Economy;",
+					"Promotion of E-Government;",
+					"Promotion of Software Development Industry;",
+					"Provision of ICT Technical Support to MDAs;",
+					"Policy on Automation of Government Services;",
+					"Development of National Communication Capacity and Infrastructure;",
+					"Management of National Fibre Optic Infrastructure."
+				],
+				"offices":[
+					
+					"Office of the Data Protection Commissioner (Data Protection Act, 2019)",
+					"Konza Technopolis Development Authority (Konza Technopolis Development Order, 2012)",
+					"Kenya ICT Authority (Legal Notice No. 183 of 2013)",
+					"The East African Marine Cable System Limited “TEAMS” (Companies Act, Cap. 486)",
+					"Kenya Advanced Institute of Science and Technology (KAIST) (Universities Act, No. 42 of 2012)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF HEALTH",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR MEDICAL SERVICES",
+				"functions":[
+					
+					"Medical Services Policy;",
+					"Curative Health Services;",
+					"Health Policy and Management;",
+					"Pharmacy and Medicines Control;",
+					"National Health Referral Services;",
+					"Cancer Management Policy; and",
+					"Medical Research."
+				],
+				"offices":[
+					
+					"National Health Insurance Fund (NHIF) (National Health Insurance Act, No. 9 of 1998)",
+					"Kenya Medical Supplies Authority (KEMSA) (Kenya Medical Supplies Authority Act, No. 20 of 2013)",
+					"Kenya Medical Research Institute (KEMRI) (State Corporations Act, Cap. 446 The Kenya Medical Research Institute Order, 2021- Legal Notice No. 35 of 2021)",
+					"Kenyatta National Hospital (State Corporations Act, Cap. 446, Kenyatta National Hospital Board Order, 1987)",
+					"Moi Teaching and Referral Hospital (Legal Notice No.78 of 1998, State Corporations Act, Cap. 446)",
+					"Kenyatta University Teaching, Referral and Research Hospital (State Corporations Act, Cap. 446, Kenyatta University Teaching, Referral and Research Hospital Order, 2019 – Legal Notice No. 4 of 2019)",
+					"Mathari National Teaching and Referral Mental Hospital (State Corporations Act, Cap. 446, Mathari National Teaching and Referral Mental Hospital Order, 2020- Legal Notice No. 165 of 2020)",
+					"Spinal Injury Hospital",
+					"The National Cancer Institute of Kenya (Cancer Prevention and Control Act, No. 15 of 2012)",
+					"Kenya Tissue and Transplant Authority (The Kenya Tissue and Plant Authority Order, 2022)",
+					"Kenya Institute of Primate Research"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR PUBLIC HEALTH AND PROFESSIONAL STANDARDS",
+				"functions":[
+					"Public Health and Sanitation Policy",
+					"Preventive and Promotive Health Services;",
+					"Policy on Human Resource Development for Health Care Workers;",
+					"Health Education Management;",
+					"Food Quality, Hygiene and Nutrition Policy;",
+					"Reproductive Health Policy;",
+					"Quarantine Administration;",
+					"Radiation Policy;",
+					"Immunization Policy and Management; and",
+					"Control and Protection HIV/Aids Management."
+				],
+				"offices":[
+					
+					"Kenya Medical Practitioners and Dentist Council (Medical Practitioners and Dentists Act, Cap. 253)",
+					"Kenya Health Professionals Oversight Authority (Health Act. No. 21 of 2017)",
+					"Kenya Medical Training College (KMTC)(Kenya Medical Training College Act, Cap.261)",
+					"Kenya BioVax Institute Limited",
+					"Kenya National Public Health Institute (Kenya National Public Health Institute, Order, 2022 - Legal Notice No. 14 of 2022)",
+					"Kenya Hospital Authority Trust Fund Counselors and Psychologists Board (Counsellors and Psychologists Act, No. 14 of 2014)",
+					"Physiotherapy Council of Kenya (Physiotherapists Act, No. 20 of 2014)",
+					"Clinical Officers Council of Kenya (Clinical Officers Council (Training, Registration, and Licensing), Cap. 260)",
+					"Kenya Medical Laboratory Technicians and Technologists Board (The Medical Laboratory Technicians and Technologists Act,No. 10 of 1999)",
+					"Nursing Council of Kenya (Nurses and Midwives Act, Cap. 257)",
+					"Kenya Nutritionists and Dieticians Institute, (Nutritionists and Dieticians Act, No. 18 of 2007)",
+					"Health Records and Information Managers Board (Health Records and Information Managers Act, No. 15 of 2016)",
+					"Pharmacy and Poisons Board (Pharmacy and Poisons Act, Cap. 244)",
+					"National Quality Control Laboratories (Pharmacy and Poisons Act, Cap. 244)",
+					"Public Health Officers and Technicians Council (Public Health Officers (Training, Registration and Licensing Act, No. 12 of 2013)",
+					"Kenya Nuclear Regulatory Authority (Previously Known as Radiation Protection Board (Radiation Protection Act, Cap.243) ",
+					"National Syndemic Diseases Control Council(Previously Known as The National Aids Control Council (State Corporations Act, Cap. 446, National Syndemic Diseases Control Council Order, 1999)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF EDUCATION",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR BASIC EDUCATION",
+				"functions":[
+					"Basic (Early Childhood, Primary and Secondary and Teacher Training) Education Policy Management;",
+					"Primary and Secondary Education Institutions Management;",
+					"School Administration and Programmes;",
+					"Registration of Basic Education and Training Institutions;",
+					"Administration of Early Childhood and Pre-Primary Education, Standards and Norms;",
+					"Management of Education Standards;",
+					"Management of National Examinations and Certification;",
+					"Curriculum Development;",
+					"Quality Assurance in Education;",
+					"Special Needs Education Management;",
+					"Representation of Kenya in Africa UNESCO;",
+					"Teacher Training; and",
+					"Adult Education Management."
+				],
+				"offices":[
+					
+					"Kenya National Examinations Council (Kenya National Examinations Council Act, No. 29 of 2012)",
+					"Kenya Literature Bureau (Kenya Literature Bureau Act, Cap. 209)",
+					"Kenya Institute of Special Education (Legal Notice No.17 of 1986)",
+					"Kenya Institute of Curriculum Development (Kenya Institute of Curriculum Development Act, No. 4 of 2013)",
+					"Centre for Mathematics, Science and Technology in Africa The Basic Education Act, No. 14 of 2013, (Board of Governors) (Centre for Mathematics, Science and Technology in Africa) Order, 2006",
+					"Kenya National Commission for UNESCO (Kenya National Commission for UNESCO Act, No. 5 of 2013)",
+					"Kenya Education Management Institute (KEMI) (The Basic Education Act, No. 14 of 2013) (The Education (Kenya Education Management Institute), Order, 2010 – (Legal Notice No. 19 of 2010)",
+					"School Equipment Production Unit (The Companies Act, Cap. 486)",
+					"Jomo Kenyatta Foundation (The Companies Act, Cap. 486)",
+					"National Commission for Nomadic Education (NACONEC)",
+					"Kenya Institute for the Blind",
+					"The President’s Award Kenya (The President’s Award Act, No. 30 of 2017)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR TECHNICAL, VOCATIONAL EDUCATION AND TRAINING",
+				"functions":[
+					"Technical and Vocational Education Policy Development and Management;",
+					"Technical Vocational Education Training;",
+					"Management of Institutes of Science and Technology;",
+					"Management of National Polytechnics;",
+					"Registration of TVET Institutions;",
+					"Management of Vocational Education Training Institutions ’TVETs’;",
+					"Management of Technical Training Institutes;",
+					"Policy and Standards development for Youth Polytechnics and Vocational Training;",
+					"Apprenticeship and Training management of  Technical and Vocational Training."
+				],
+				"offices":[
+					
+					"Technical and Vocational Education and Training Authority (Technical and Vocational Education and Training Authority Act, No. 29 of 2013)",
+					"Technical Vocational Education Training Fund Board (TVET Act, No. 29 of 2013)",
+					"Curriculum Development Assessment and Certification Council (TVET Act, No. 29 of 2013)",
+					"Kenya National Qualifications Authority",
+					"Kenya School of TVET (Kenya Technical Trainers College)- Previously KTTC)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR HIGHER EDUCATION AND RESEARCH",
+				"functions":[
+					"University Education Policy and Standards;",
+					"University Education Management;",
+					"Management of Continuing Education (excluding TVETS);",
+					"Public Universities Management;",
+					"Education Research and Policy;",
+					"Policy and Standards on Science and Technology."
+				],
+				"offices":[
+					"Commission for University Education",
+					"Kenya Universities and Colleges Placement Service (Universities Act, No. 42 of 2012",
+					"National Commission for Science Technology and Innovation (Science, Technology and Innovation Act, No. 28 of 2013)",
+					"Higher Education Loans Board (Higher Education Loans Board Act, No. 3 of 1995)",
+					"National Research Fund (Science, Technology and Innovation Act, 2013)",
+					"Universities Funding Board",
+					"Kenyatta University (Universities Act, No. 42 of 2012)",
+					"University of Nairobi (Universities Act, No. 42 of 2012)",
+					"Jomo Kenyatta University of Agriculture and Technology (Universities Act, No. 42 of 2012)",
+					"Moi University (Universities Act, No. 42 of 2012)",
+					"University of Eldoret (Universities Act, No. 42 of 2012)",
+					"Karatina University (Universities Act, No. 42 of 2012)",
+					"Taita Taveta University (Universities Act No. 42 of 2012)",
+					"Kirinyaga University (Universities Act, No. 42 of 2012)",
+					"Muranga University of Technology (Universities Act, No.42 of 2012)",
+					"Egerton University (Universities Act, No. 42 of 2012)",
+					"Maseno University (Universities Act, No. 42 of 2012)",
+					"Masinde Muliro University of Science and Technology (Universities Act No. 42 of 2012)",
+					"The Technical University of Kenya (Universities Act, No. 42 of 2012)",
+					"Technical University of Mombasa (Universities Act, No. 42 of 2012)",
+					"Pwani University (Universities Act, No.42 of 2012)",
+					"South Eastern Kenya University (Universities Act, No. 42 of 2012)",
+					"Dedan Kimathi University of Technology (Universities Act, No. 42 of 2012)",
+					"University of Kabianga (Universities Act, No. 42 of 2012)",
+					"Masai Mara University (Universities Act, No. 42 of 2012)",
+					"University of Kibabii (Universities Act, No. 42 of 2012)",
+					"Jaramogi Oginga Odinga University of Science and Technology (Universities Act, No. 42 of 2012)",
+					"Laikipia University (Universities Act, No. 42 of 2012) ",
+					"Meru University of Science and Technology (Universities Act, No. 42 of 2012)",
+					"Garissa University (Universities Act, No. 42 of 2012)",
+					"Machakos University (Universities Act, No. 42 of 2012)",
+					"Multi-Media University (Universities Act, No. 42 of 2012)",
+					"Kisii University (Universities Act, No. 42 of 2012)",
+					"Rongo University (Universities Act, No. 42 of 2012)",
+					"University of Embu (Universities Act, No. 42 of 2012)",
+					"Chuka University (Universities Act, No. 42 of 2012)",
+					"Tharaka University (Universities Act, No. 42 of 2012)",
+					"Co-operative University of Kenya (Universities Act, No.42 of 2012)",
+					"Kaimosi Friends University (Universities Act, No. 42 of 2012)",
+					"Alupe University (Universities Act, No. 42 of 2012)",
+					"Mama Ngina University College (Universities Act, No. 42 of 2012)",
+					"Bomet University College (Universities Act, No. 42 of 2012)",
+					"Tom Mboya University (Universities Act, No.42 of 2012)",
+					"Turkana UniversityCollege (UniversitiesAct, No. 42 of 2012)",
+					"Koitalel Arap SamoeiUniversity College(Universities Act, No.42 of 2012)",
+					"University of NairobiEnterprises(Companies Act, Cap.486)",
+					"University of NairobiPress"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF AGRICULTURE AND LIVESTOCK DEVELOPMENT",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR CROP DEVELOPMENT",
+				"functions":[
+					"National Agricultural Policy and Management;",
+					"National Food Policy;",
+					"Strategic Food Reserves;",
+					"Agricultural Crops",
+					"Development, Regulation and Promotion;",
+					"Agriculture Financing;",
+					"Phytosanitary Services and International Standards Compliance;",
+					"Policy on Agricultural Training;",
+					"Agricultural Land Resources Inventory and Management;",
+					"Agricultural Mechanization Policy Management;",
+					"Policy on Land Consolidation for Agricultural Benefit;",
+					"Agricultural Insurance Policy;",
+					"Agricultural Extension policy and Service Standards;",
+					"Capacity Building Policy for Agricultural Staff;",
+					"Crop Research and Development;",
+					"Support in administration of Irrigation Schemes;",
+					"Agriculture Seed Research and Development;",
+					"Crop Genetic Research; and",
+					"Biosafety Management."
+				],
+				"offices":[
+					"Agriculture and Food Authority (AFA) (Agriculture and Food Authority Act, No.13 of 2013)",
+					"Tea Board of Kenya (Tea Act, No. 3 of 2020)",
+					"Agricultural Finance Corporation (Agricultural Finance Corporation, Cap. 323)",
+					"Agricultural Development Corporation (Agricultural Development Corporation Act, Cap. 444)",
+					"Kenya Seed Company (Companies Act, Cap. 486)",
+					"Kenya Plant Health Inspectorate Services (KEPHIS) (Kenya Plant Health Inspectorate Service Act, No. 54 of 2012)",
+					"Nyayo Tea Zones Development Corporation (State Corporations Act, Cap. 446 through Nyayo Tea Zone Order)",
+					"South Nyanza Sugar Company (State Corporations Act, Cap. 446)",
+					"Nzoia Sugar Company (Companies Act, Cap. 486)",
+					"Chemelil Sugar Company (Companies Act, Cap. 486)",
+					"Muhoroni Sugar Factory (Under receivership)",
+					"Miwani Sugar Company (Under receivership)",
+					"Bukura Agricultural College (Bukura Agricultural College Act, No. 5 of 1999)",
+					"Agricultural Information Resource Center",
+					"Kenya School of Agriculture",
+					"National Cereals and Produce Board (National Cereals and Produce Board Act, Cap. 338)",
+					"Commodities Fund, (Crops Act, No. 6 of 2013)",
+					"Agro-Chemical and Food Company (Companies Act, Cap. 486)",
+					"Agriculture Information Resource Centre Revolving Fund",
+					"Pest Control Products Board (Pest Control Products Act, Cap. 346)",
+					"Pyrethrum Processing Company of Kenya",
+					"Kenya Agricultural and Livestock Research Organization (KALRO) (Kenya Agricultural and Livestock Act, No. 17 of 2013)",
+					"National Biosafety Authority (Biosafety Act, No. 2 of 2009)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR LIVESTOCK DEVELOPMENT",
+				"functions":[
+					
+					"Livestock Policy Management;",
+					"Development of Livestock Industry;",
+					"Veterinary Services and Disease Control Policy;",
+					"Range Development and Management;",
+					"Livestock Marketing;",
+					"Promotion of Dairy Industry;",
+					"Livestock Insurance Policy;",
+					"Livestock Branding;",
+					"Promotion of Bee Keeping and apiculture;",
+					"Promotion of quality of Hides and Skins;",
+					"Leather Sector Development and Promotion of Value Chain.",
+					"Livestock Research and Development;",
+					"Animal Genetic Research; and",
+					"Tsetse Fly and Trypanosomiasis Research and Control."
+				],
+				"offices":[
+					"Kenya Veterinary Vaccine Production Institute (State Corporations Act, Cap. 446 through Gazette Notice No. 223 of 4th June, 1990)",
+					"Kenya Veterinary Board (Veterinary Surgeons and Veterinary Para Professional Act (No. 29 of 2011)",
+					"Veterinary Medicines Directorate",
+					"Animal Technicians Council (Animal Technicians Act, No. 11, 2010)",
+					"Kenya Meat Commission (Kenya Meat Commission Act, Cap. 363)",
+					"Kenya Leather Development Council (Leather Development Council Order, No. 114 of 2011)",
+					"Kenya Dairy Board (Dairy Industry Act, Cap. 336)",
+					"Kenya Animal Genetics Resource Centre The Kenya Animal Genetics Resource Centre Order, 2011 (Legal Notice No. 110 of 2011)",
+					"Kenya Tsetse and Trypanosomiasis Eradication Council The Kenya Tsetse and Trypanosomiasis Eradication Council Order, 2012 (Legal Notice No. 77 of 2012)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF INVESTMENTS, TRADE AND INDUSTRY",
+		"offices":[
+			{
+				"name":". STATE DEPARTMENT FOR INVESTMENTS PROMOTION",
+				"functions":[
+					"Investment policy and strategy",
+					"Promote, both locally and internationally, the opportunities for investment in Kenya",
+					"Coordinating the transformation of the ecosystem supporting private sector development",
+					"Development of a business reform agenda across the entirety of Government",
+					"Championing automation and re-engineering Government business and services processes",
+					"Driving legislative and regulatory reform on the ease of doing business and businesstransformation",
+					"Coordination of engagements with the private sector/business community in respect to business climate and business transformation.",
+					"Monitoring the implementation of business climate reforms as recommended by key international partners, notably:The World Bank;The World Economic Forum; The Global Investment Forum; and Other international bodies and indices; and",
+					"Creating public awareness of reforms in the business climate and ease of doing business."
+				],
+				"offices":[
+					"Kenya Investment Authority (Investment Promotion Act, No. 6 of 2004)",
+					"Export Processing Zones Authority (Export Processing Zones Act, Cap. 517)",
+					"Special Economic Zones Authority (Special Economic Zones Authority Act, No. 16 of 2015)",
+					"Kenya Development Corporation (KDC)",
+					"Department of Business Reforms and Transformation"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR TRADE",
+				"functions":[
+					"Trade Policy;",
+					"Export Development and Promotion;",
+					"Promote E-Commerce;",
+					"Trade Negotiations and Advisory Services;",
+					"Champion Trade Integration in the COMESA, CFTA, EPA, AFTA, etc.;",
+					"Liaising and Co-ordinating with UNCTAD and WTO on Trade Matters;",
+					"Enforcement of International Trade Laws, Negotiations and Agreements;",
+					"Protection of Kenyan Goods against Dumping and Subsidized Imports and recommending Countervailing Measures;",
+					"Co-ordination of multi-Agency Task Force on the Elimination of Illicit Trade and Counterfeits;",
+					"Liaison with International Trade bodies for National Development;",
+					"Management of weight and measurement in Trade;",
+					"Promotion and Regulation of the Wholesale and Retail Trade; and",
+					"Promotion of Fair-Trade Practices and Consumer Protection."
+				],
+				"offices":[
+					"Kenya National Trading Corporation (The Companies Act, Cap. 486)",
+					"Africa Trade Insurance",
+					"National Trade Negotiations Council (NTNC) (Via Legal Notice Vol. CXIX-136, September 2017)",
+					"Trade Remedies Agency (Trade Remedies Act, 2017)",
+					"Kenya Branding and Exports Promotion Agency (KEPROBA) The Kenya Export Promotion Branding Agency Order, 2019",
+					"Warehouse Receipt Systems Council (Warehouse Receipt Systems Act, No. 8 of 2019)",
+					"Kenya National Multi Commodities Exchange Limited"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR INDUSTRY",
+				"functions":[
+					"To Promote and Facilitate Domestic and Foreign Investments;",
+					"Investment policy and attraction;",
+					"Industrial Policy and Planning.",
+					"Buy Kenya - Build Kenya Policy and Strategy;",
+					"To Promote Standardization in Industry and Quality Control;",
+					"Promotion and Oversight of the Development of Special Economic Zones and Industrial Parks;",
+					"Kenya Property Rights Policy (Patents, Trade Marks, Service Marks, and Innovation);",
+					"Promotion of Value Addition and Agro-Processing;",
+					"Textile Sector Development;",
+					"Leather Sector Development and Promotion of Value Chain;",
+					"Oversight and Regulation of the Scrap Metal Industry;",
+					"Industrial Training and Capacity Development;",
+					"To Combat Counterfeiting, Trade and Other Dealings in Counterfeit Goods; and",
+					"Oversight, Administration and Enforcement of the Local Content Policy."
+				],
+				"offices":[
+					"Kenya Bureau of Standards (Standards Act, Cap. 496)",
+					"Kenya National Accreditation Services (State Corporations Act, Cap. 446, Kenya National Accreditation Services (KENAS) (Legal Notice No.55 of 2009)",
+					"Rivatex",
+					"East African Portland Cement Co. Ltd (Companies Act, Cap. 486, 435 A, 446)",
+					"Numerical Machining Complex (NMC) (Companies Act, Cap. 486)",
+					"Kenya Industrial Research and Development Institute (KIRDI) (Science Technology and Innovation Act, No. 28 of 2013)",
+					"Kenya Industrial Property Institute (KIPI) (Kenya Industrial Property Act, 2001)",
+					"Scrap Metal Council (Scrap Metal Act, No. 1 of 2015)",
+					"Kenya Industrial Training Institute (KITI) (Industrial Training Act, Cap.237)",
+					"Anti-Counterfeit Authority (Anti-Counterfeit Act, No. 13 of 2008)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF CO-OPERATIVES AND MICRO, SMALL AND MEDIUM ENTERPRISES (MSME) DEVELOPMENT",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR CO-OPERATIVES",
+				"functions":[
+					"Co-operative Policy, Standards and Implementation;",
+					"Promotion of Co-operative Ventures;",
+					"Co-operative Production and Marketing;",
+					"Supervision and oversight over Co-operative Societies;",
+					"Co-operative Savings",
+					"Credit and other Financial Services Policy;",
+					"Co-operative Legislation and Support Services;",
+					"Co-operative Education and Training;",
+					"Co-operative Audit Services;",
+					"Co-operative Financing Policy."
+				],
+				"offices":[
+					"Sacco Societies Regulatory Authority (SASRA) (SACCO Societies Act, No. 14 of 2008)",
+					"New Kenya Planters Cooperative Union",
+					"New Kenya Co-operative Creameries (State Corporations Act, Cap. 446)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR MICRO, SMALL AND MEDIUM ENTERPRISES (MSME) DEVELOPMENT",
+				"functions":[
+					"SME Policy;",
+					"Develop SME Financing Policy to facilitate adequate flow of credit from financial institutions;",
+					"Administration of the 'Hustler Fund' for the promotion, development and enhancing competitiveness of MSMES;",
+					"Capacity development for Entrepreneurship including access to modern management practices;",
+					"Support for technology upgradation and modernization;",
+					"Establishment of integrated infrastructural facilities;",
+					"Promotion and Development of Micro and Small Enterprise and enhance their competitiveness;",
+					"Promote Progressive credit policies and practices targeting MSMEs;",
+					"Business Innovation and Incubation;",
+					"Administer Preference in Government procurements to products and services of the MSMEs;",
+					"Champion subcontracting arrangements between SMEs and Large Enterprises;",
+					"Market development for MSME products and services (better access to domestic and export markets);",
+					"Support for product development, design intervention and packaging;",
+					"Promotion of establishment of Production clusters;",
+					"Promotion and Development of the Cottage Industry."
+				],
+				"offices":[
+					
+					"Kenya Industrial Estates (Companies Act, Cap. 486)",
+					"Micro and Small Enterprise Authority (Micro and Small Enterprises Act, No. 55 of 2012)",
+					"Hustler Fund (Micro and Small Enterprises Act, No. 55 of 2012) and Public Finance Management Act, No. 18 of 2012",
+					"Uwezo Fund (Public Finance Management Act, No. 18 of 2012)",
+					"Youth Enterprise Development Fund (Youth Enterprise Fund Board Order, of 2007)",
+					"Kenya Institute of Business Training (KIBT)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF YOUTH, SPORTS AND THE ARTS",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENTFOR YOUTH AFFAIRS",
+				"functions":[
+					"Youth Policy and Empowerment;",
+					"Mainstreaming Youth in National Development;",
+					"Business Innovation and Incubation;",
+					"Managing and Promoting engagement with Youth for National Development;",
+					"Harnessing and Development of Youth Talent for National Development;",
+					"Collaborating and Overseeing Stakeholders engaged in Youth Promoting Activities."
+				],
+				"institutions":[
+					"Kenya National Youth Council (National Youth Council Act, No. 10 of 2009)",
+					"Youth Advisory Board (National Youth Council Act, No. 10 of 2009)",
+					"Kenya Association of Youth Centres",
+					"Kenya National Innovation Agency (Science, Technology and Innovation Act, No. 28 of 2013)",
+					"The Regional Youth Forum Secretariat of the International Conference on the Great Lakes Region (ICGLR)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR SPORTS AND THE ARTS"
+			}
+		]
+	}
+]
