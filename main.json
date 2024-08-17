@@ -8,7 +8,7 @@
 				"functions":[
 					"I. Administrative Head of the Executive Office of the President",
 					"II. As Co-ordinator and convener of the Principal Secretaries Committees, support the Executive Office of the President in facilitating the organization and efficient execution of Government Business",
-					"III. Promote ethics, good governance, efficiency, and effectiveness in the provision of public services through the deployment of right skills, values, and leadership in the Kenyan Public Service;",
+					"III. Promote ethics, good governance, efficiency, and effectiveness in the provision of public services through the deployment of right skills, values, and leadership in the Kenyan Public Service",
 					"IV. Transmit Executive Directives/Orders and Presidential Proclamations to Ministries, State Organs, State Departments, and State Agencies for their information, implementation or other action;",
 					"V. Custodian of the Kenya Public Seal and other instruments of the State for national posterity; and",
 					"VI. Perform any"
@@ -1071,7 +1071,254 @@
 				]
 			},
 			{
-				"name":"STATE DEPARTMENT FOR SPORTS AND THE ARTS"
+				"name":"STATE DEPARTMENT FOR SPORTS AND THE ARTS",
+				"functions":[
+					"Development, Management, and Implementation of the Sports Policy",
+					"Enforcement and Implementation of the World Anti-Doping Code and Convention Against Doping",
+					"Promotion and Coordination of Sports Training and Education",
+					"Regulation of Sports",
+					"Expansion of Sports Industry for sustainable Livelihoods",
+					"Development and Management of Sports Facilities",
+					"Establishment and Management of Sports Academies to Nurture talent",
+					"Policy for Development of Fine Arts",
+					"Library Services",
+					"Film Development Policy",
+					"Development of the Film Industry",
+					"Research and Conservation of Music; and",
+					"Creative and Performing Arts."
+				],
+				"institutions":[
+					"Sports Kenya (Sports Act, No. 25 of 2013)",
+					"Kenya Anti-Doping Agency Sports Kenya (Sports Act, No. 25 of 2013)",
+					"Sports Arts and Social Development Fund (Public Finance Management Act, No. 18 of 2012)",
+					"Kenya Academy of Sports",
+					"Registrar of Sports",
+					"Kenya Film Classification Board (Kenya Film Classification Act, Cap. 222)",
+					"Kenya Film Commission (Legal Notice No 147 of 2015)",
+					"Kenya Copyright Board (Copyright Act, 2001)",
+					"Kenya National Library Services Board (Kenya National Library Service Act, Cap. 225)",
+					"Kenya Cultural Centre (Kenya Cultural Centre Act, Cap. 218)",
+					"Kenya National Theatre",
+					"Permanent Presidential Music Commission"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF ENVIRONMENT, CLIMATE CHANGE AND FORESTRY",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR ENVIRONMENT AND CLIMATE CHANGE",
+				"functions":[
+					"National Environment",
+					"Policy and Management",
+					"Climate Change/Action Policy",
+					"Promotion of low carbon technologies to reduce emissions",
+					"Restoration and Protection of Strategic Water Towers",
+					"Protection and Conservation of the Natural Environment",
+					"Pollution Control",
+					"Lake Victoria Environmental Management Programme ",
+					"Restoration of Lake Naivasha Basin",
+					"Meteorological Services",
+					"Conservation and Protection of Wetlands",
+				],
+				"institutions":[
+					"National Environmental Management Authority (Environmental Management Co-ordination Act, No.8 of 1999)",
+					"National Climate Change Council (Climate Change Act, No. 11 of 2016)",
+					"Kenya Water Towers Agency (Kenya Water Towers Agency Board Order, 2012)",
+					"National Environment Trust Fund (Environmental Management Co-ordination Act, No.8 of 1999)",
+					"National Environmental Complaints Committee (NECC) (Environmental Management Co-ordination Act, No.8 of 1999)",
+					"Kenya Meteorological Department",
+					"Kenya Meteorological Training College "
+				]
+			},
+			{
+				"name":" STATE DEPARTMENT FOR FORESTRY",
+				"functions":[
+					
+					"Forestry Development Policy;",
+					"Forestry Management; and",
+					"Support in Climate Change/Action Policy; and",
+					"Development of Forests, Re-afforestation, and Agroforestry."
+				],
+				"institutions":[
+					"Kenya Forest Service (Forest Conservation and Management Act, No. 34 of 2016)",
+					"Kenya Forestry Research Institute (Science and Technology Act, No. 28 of 2013)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF TOURISM, WILDLIFE AND HERITAGE",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR TOURISM",
+				"functions":[
+					
+					"Tourism Policy and Standards;",
+					"Development and Promotion of Tourism;",
+					"Training on Tourism Services;",
+					"Tourism Finance;",
+					"Tourism Research and Monitoring;",
+					"Protection of Tourism and Regulation; and",
+					"Positioning and Marketing of Kenya to local and international Tourists;"
+				],
+				"institutions":[
+					"Tourism Regulatory Authority (Tourism Act, No. 28 of 2011)",
+					"Kenya Utalii College (Tourism Act, No. 28 of 2011)",
+					"The Tourism Fund (Tourism Act, No. 28 of 2011)",
+					"Tourism Research Institute and Monitoring Mechanism (Tourism Act, No. 28 of 2011)",
+					"Tourism Protection Service (Tourism Act, No. 28 of 2011)",
+					"Kenya Tourism Board (Tourism Act, No. 28 of 2011)",
+					"Kenyatta International Convention Centre (Tourism Act, No. 28 of 2011)",
+					"Kenya Safari Lodges and Hotels"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR WILDLIFE",
+				"functions":[
+					"Wildlife Conservation and Protection Policy;",
+					"Protection of Wildlife Heritage;",
+					"Management of National Parks, Reserves and Marine Parks.",
+					"Wildlife Biodiversity Management and Protection;",
+					"Sustainable Wildlife Biodiversity Economy;",
+					"Collaboration with Wildlife Clubs of Kenya;",
+					"Management of Wildlife Dispersal Areas in collaboration with Partners;",
+					"Wildlife Conservation Training and Research and",
+					"Wildlife Conservation Education and Awareness;",
+					"Wildlife Biodiversity International Obligations and Multilateral Agreements;",
+					"Human-Wildlife Conflict Mitigation and Response Policy; and",
+					"Wildlife Sector Governance and Coordination."
+				],
+				"institutions":[
+					"Kenya Wildlife Service",
+					"Kenya Wildlife Research and Training Institute",
+					"Wildlife Conservation Trust Fund",
+					"Wildlife Clubs of Kenya"
+				]
+			},
+			{
+				"name":". STATE DEPARTMENT FOR CULTURE AND HERITAGE",
+				"functions":[
+					"National Heritage Policy and Management;",
+					"Management of Culture Policy;",
+					"Policy on Kenya’s Heroes and Heroines;",
+					"Language Management Policy;",
+					"National Archives/Public Records Management;",
+					"Management of National Museums and Monuments; and",
+					"Historical Sites Management."
+				],
+				"institutions":[
+					"The National Heroes Council (Kenya Heroes Act, No. 5 of 2014)",
+					"Kenya National Archives and Documentation Service (Public Archives and Documentation Service Act, Cap. 19)",
+					"National Museums of Kenya (National Museums and Heritage Act, No. 6 of 2006)",
+					"Bomas of Kenya",
+					"Kenya National Commission for Culture and Social Services",
+					"Ushanga Kenya Initiative"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF WATER, SANITATION AND IRRIGATION",
+		"offices":[
+			{
+				"name":"STATE DEPARTMENT FOR WATER AND SANITATION",
+				"functions":[
+					
+					"Water Resources Management Policy and Standards;",
+					"Water Catchment Area Conservation, Control and Protection;",
+					"Water and Sewerage Services Management Policy;",
+					"Waste Water Treatment and Disposal Policy;",
+					"Water Quality and Pollution Control;",
+					"Sanitation Management;",
+					"Management of Public Water Schemes and Community Water Projects; and",
+					"Water Harvesting and Storage for Domestic and Industrial Use.",
+				],
+				"institutions":[
+
+					"Water Services Regulatory Board (Water Act, 2016)",
+					"Kenya Water Institute",
+					"Athi Water Works Development Agency (Water Act, 2016)",
+					"Tana Water Works Development Agency (Water Act, 2016)",
+					"Tanathi Water Works Development Agency (Water Act, 2016)",
+					"Lake Victoria North Water Works Development Agency (Water Act, 2016)",
+					"Lake Victoria South Works Development Agency (Water Act, 2016)",
+					"Central Rift Valley Water Works Development Agency (Water Act, 2016)",
+					"North Rift Valley Water Works Development Agency (Water Act, 2016)",
+					"Coast Water Works Development Agency (Water Act, 2016)",
+					"Northern Water Works Development Agency (Water Act, 2016)",
+					"Water Sector Trust Fund (Water Act, 2016)",
+					"Regional Centre on Ground Water Resources Education, Training and Research (Legal Notice No. 252 of 18th December, 2015)",
+					"Water Resources Authority (Water Act, 2016)",
+					"Hydrologists Registration Board"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR IRRIGATION",
+				"functions":[
+					
+					"National Irrigation Policy and Management;",
+					"Water Harvesting and Storage for Irrigation;",
+					"Management of Irrigation Schemes;",
+					"Water Storage and Flood Control Management;",
+					"Mapping, Designating and Developing Areas ideal for Irrigation Schemes;",
+					"Development of irrigation infrastructure; and",
+					"Land Reclamation.",
+				],
+				"institutions":[
+					"National Water Harvestingand Storage Authority (Water Act, 2016)",
+					"National Irrigation Authority (Irrigation Act, No. 14 of 2019)",
+					"Kenya Water Security Climate Resilience Project (KWSCRP)"
+				]
+			}
+		]
+	},
+	{
+		"name":"MINISTRY OF ENERGY AND PETROLEUM",
+		"offices":[
+			
+			{
+				"name":"STATE DEPARTMENT FOR ENERGY",
+				"functions":[
+					"National Energy Policy, Development and Management;",
+					"Thermal Power Development;",
+					"Rural Electrification Programme;",
+					"Energy Regulation, Security and Conservation;",
+					"Hydropower Development;",
+					"Geothermal Exploration and Development;",
+					"Promotion of renewable energy.",
+				],
+				"institutions":[
+					
+					"Energy and Petroleum Regulatory Authority (Energy Act, No. 1 of 2019)",
+					"Kenya Power Company Limited (Companies Act, Cap. 486)",
+					"Kenya Electricity Generating Company Limited (Companies Act, Cap. 486)",
+					"Kenya Electricity Transmission Company Limited (Companies Act, Cap. 486)",
+					"Rural Electrification and Renewable Energy (Energy Act, No. 1 of 2019)",
+					"Nuclear Power and Energy Agency",
+					"Geothermal Development Company (Energy Act, No. 1 of 2019) (Companies Act, Cap.486)"
+				]
+			},
+			{
+				"name":"STATE DEPARTMENT FOR PETROLEUM",
+				"functions":[
+					"Petroleum Policy;",
+					"Strategic Petroleum Stock Management;",
+					"Management of Upstream Petroleum Products Marketing;",
+					"Oil and Gas Exploration Policy Development;",
+					"Oil/Gas Sector Capacity Development;",
+					"Petroleum Products, Import/Export Marketing Policy Management;",
+					"Licensing of Petroleum Marketing and Handling;",
+					"Quality Control of Petroleum Products.",
+				],
+				"institutions":[
+					"National Oil Corporation of Kenya (Companies Act, Cap. 486)",
+					"Kenya Pipeline Company (Companies Act, Cap. 486)",
+					"Petroleum Development Levy Fund",
+					"Kenya Petroleum Refineries",
+				]
 			}
 		]
 	}
